@@ -1,0 +1,11 @@
+Order ID : 0
+Item : Crown Pizza, Quantity : 5, Subtotal : $12500.00
+Total : $12500.00
+
+Order ID : 0
+Item : Zinger Burger, Quantity : 3, Subtotal : $600.00
+Item : Crown Pizza, Quantity : 5, Subtotal : $12500.00
+Item : Daal Mash, Quantity : 7, Subtotal : $1400.00
+Item : Chicken Karahi, Quantity : 4, Subtotal : $3200.00
+Total : $17700.00
+

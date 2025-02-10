@@ -1,0 +1,4 @@
+Zinger Burger,200,Great Taste
+Crown Pizza,2500,Iconic Taste
+Daal Mash,200,Tasty Daal Mash
+Chicken Karahi,800,Delicious Chicken Karahi
