@@ -40,3 +40,16 @@ The **Restaurant Management System** is a C++ program designed to streamline res
 ## Author
 **Salman Khan** - Developed this project as part of the **3rd-semester coursework**.
 
+** Main View **
+![Screenshot (28)](https://github.com/user-attachments/assets/499015b2-c1aa-4d24-a603-550d2476ef91)
+
+![Screenshot (29)](https://github.com/user-attachments/assets/71391e3d-a80c-4ae0-a651-cdba0f5af461)
+
+![Screenshot (30)](https://github.com/user-attachments/assets/fcd90c82-5ade-4536-b034-a6b4169472da)
+
+![Screenshot (31)](https://github.com/user-attachments/assets/f60f4033-50b0-4b4f-a40a-7a87006fae44)
+
+
+
+
+
